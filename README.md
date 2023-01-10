@@ -39,8 +39,8 @@
 - [BTVN-Bài 3:_Cấu trúc điều kiện (if, switch)](https://www.jdoodle.com/a/5FV8)
 
 # Bài tập ngày 3/1/2023
-- [Bài 1](jdoodle.com/a/5GGy)
-- [Bài 2](jdoodle.com/a/5GH0)
-- [Bài 3](jdoodle.com/a/5HKV)
+- [Bài 1](https://www.jdoodle.com/a/5GGy)
+- [Bài 2](https://www.jdoodle.com/a/5GH0)
+- [Bài 3](https://www.jdoodle.com/a/5HKV)
 
 
