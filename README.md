@@ -13,6 +13,7 @@
 
 ## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 - [Bài 1](https://www.jdoodle.com/a/5HLV)
+- [Bài 2](https://www.jdoodle.com/a/4Srj)
 
 ## [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 ### Phần Cấu trúc điều kiện (if, switch)
@@ -24,9 +25,6 @@
 ### Phần Cấu trúc lặp (for, while, do/while)
 - [Bài 2](https://www.jdoodle.com/a/5FUU)
 - [Bài 3](https://www.jdoodle.com/a/5FUX)
-
-
-
 
 # Kiểm tra ngày 20/12/2022
 - [Bài 1](https://www.jdoodle.com/a/5FTB)
