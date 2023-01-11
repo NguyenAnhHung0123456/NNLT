@@ -14,6 +14,9 @@
 ## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 - [Bài 1](https://www.jdoodle.com/a/5HLV)
 
+## [Bài 6: Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+- [Bài 1](https://www.jdoodle.com/a/5IxK)
+
 ## [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 ### Phần Cấu trúc điều kiện (if, switch)
 - [Bài 1](https://www.jdoodle.com/a/5HGx)
