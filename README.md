@@ -13,7 +13,6 @@
 
 ## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 - [Bài 1](https://www.jdoodle.com/a/5HLV)
-- [Bài 2](https://www.jdoodle.com/a/4Srj)
 
 ## [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 ### Phần Cấu trúc điều kiện (if, switch)
