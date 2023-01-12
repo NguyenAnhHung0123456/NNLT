@@ -43,4 +43,6 @@
 - [Bài 2](https://www.jdoodle.com/a/5GH0)
 - [Bài 3](https://www.jdoodle.com/a/5HKV)
 
+# [Thi ngày 12/1/2023](https://www.jdoodle.com/a/5IJ6)
+
 
